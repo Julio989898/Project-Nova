@@ -1,1 +1,1 @@
-app_mode=payment-testing
+app_mode=payment-production
